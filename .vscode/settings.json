@@ -1,0 +1,22 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/activation.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/commons-codec.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/commons-fileupload.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/commons-io.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/commons-logging.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/commons-net.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/helma.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/jetty.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/jetty-ajp.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/jetty-util.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/mail.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/rhino.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/servlet.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/tagsoup.jar",
+        "Library XML-RPC dan MySQL/library XML-RPC/xmlrpc.jar",
+        "Library XML-RPC dan MySQL/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49.jar",
+        "Library XML-RPC dan MySQL/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49-bin.jar"
+    ]
+}
